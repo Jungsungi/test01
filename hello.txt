@@ -3,6 +3,6 @@ public class Hello{
 	public static void main(String [] args)\{
 		System.out.println("Hello");
 		System.out.println(5);
-		Systme.out.print(5+3);
+		Systme.out.print(5+9);
 	}
 }}
